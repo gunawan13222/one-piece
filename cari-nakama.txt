@@ -2,3 +2,4 @@ zoro
 nami 
 usoup 
 sanji
+copper
